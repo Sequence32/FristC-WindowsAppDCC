@@ -1,0 +1,10 @@
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\bin\Debug\First_form_App.exe.config
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\bin\Debug\First_form_App.exe
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\bin\Debug\First_form_App.pdb
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.csprojResolveAssemblyReference.cache
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.Form1.resources
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.Properties.Resources.resources
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.csproj.GenerateResource.Cache
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.exe
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.pdb
+c:\users\sequence32\documents\visual studio 2015\Projects\First_form_App\First_form_App\obj\Debug\First_form_App.Form2.resources
